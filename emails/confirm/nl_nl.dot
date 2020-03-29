@@ -1,11 +1,11 @@
-<p>Bedankt voor het meedoen aan de vragenlijst! Voordat jouw symptomen kunnen worden toegevoegd vragen we je om jouw email adres bevestigen. Klik daarvoor hier. Mocht de pagina niet openen, kopieer dan deze link in de adresbalk van je webbrowser:</p>
+<p>Bedankt dat je mee wilt doen aan de vragenlijst. Voordat we de symptomen toevoegen, vragen we jou om je e-mailadres te bevestigen. Mocht de pagina niet vanzelf openen, kopieer dan deze link in de adresbalk van je webbrowser:</p>
 
 <p>{{=it.link}}</p>
 
-<h3>Waarom vragen we jou je e-mail adres te bevestigen?</h3>
-<p>SymptoTrack bewaart geen persoonsgegevens, ook je email adres. Dit bericht wordt automatisch gegenereerd als je onze vragenlijst hebt ingevuld, zonder dat daarbij jouw email adres wordt opgeslagen. We sturen dit verificatie bericht dan ook niet om daadwerkelijk je e-mail te bevestigen, maar als beveiliging. Om te voorkomen dat computer software (ook wel bots genoemd) fictieve data gaan invullen bevestigen we met de e-mail verificatie dat de gegevens daadwerkelijk door een persoon zijn ingevuld.</p>
+<h3>Waarom vragen we je jouw e-mailadres te bevestigen?</h3>
+<p>SymptoTrack bewaart geen persoonsgegevens, dus ook niet je e-mailadres. Dit bericht wordt automatisch gegenereerd als je onze vragenlijst hebt ingevuld, zonder dat we jouw e-mailadres opslaan. We sturen dit verificatiebericht dan ook niet om daadwerkelijk je e-mailadres te bevestigen, maar als beveiliging. Om te voorkomen dat computer software (ook wel bots genoemd) fictieve data gaan invullen, bevestigen we met e-mailverificatie dat de gegevens daadwerkelijk door een persoon zijn ingevuld.</p>
 
-<p>Heb je nog meer vragen over e-mail bevestiging of andere beveiligings features van SymptoTrack? Stuur dan een mailtje naar info@symptotrack.org</p>
+<p>Heb je nog meer vragen over je e-mailbevestiging of andere beveiligingszaken van SymptoTrack? Mail dan naar info@symptotrack.org</p>
 <p><a href="{{=it.link}}">Jouw persoonlijke bevestiginglink</a></p>
 
 <h3>Contact</h3>
